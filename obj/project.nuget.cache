@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xaIb4RB2j7dexXoYLrAc0Nvc7EMPIs0NEMecLZbsatpHZ4D9kkku4v1XCzd50povDV0seDgBRatQfrNSgTl+jw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kuzzz\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\FunnyFargoAddon\\FunnyFargoAddon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kuzzz\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

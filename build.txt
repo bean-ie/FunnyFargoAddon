@@ -1,0 +1,3 @@
+displayName = Funny Fargo's Souls Addon
+author = beanie
+version = 0.1
